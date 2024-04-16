@@ -8,7 +8,7 @@
 
   🤔 &nbsp; Me Chamo **Luana Arruda**.
   
-  🎓 &nbsp; Cursando **Análise e Desenvolvimento de Sistemas** na FATEC.
+  🎓 &nbsp; Cursando **Análise e Desenvolvimento de Sistemas**.
   
   🌱 &nbsp; Aprendendo mais sobre TypeScript e Angular.
 
