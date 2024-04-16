@@ -1,5 +1,5 @@
 <Header>
-<div align="center">
+<div>
 <a href="https://github.com/luanarruda">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=luanarruda&show_icons=true&theme=omni&line_height=27" alt="carpinellx github stats"/>
 </a>  
@@ -31,7 +31,7 @@
 </a>
 </p>  
 
-  <p>
+  <p align="center">
   <a href="mailto:luanamarrudaa@gmail.com?subject=Questions" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
