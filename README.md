@@ -10,7 +10,7 @@
   
   🎓 &nbsp; Cursando **Análise e Desenvolvimento de Sistemas**.
   
-  🌱 &nbsp; Aprendendo mais sobre TypeScript e Angular.
+  🌱 &nbsp; Aprendendo mais sobre TypeScript.
 
   <hr>
   
