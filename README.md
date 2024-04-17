@@ -1,12 +1,12 @@
 <Header>
 <div>
 <a href="https://github.com/luanarruda">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=luanarruda&show_icons=true&theme=omni&line_height=27" alt="carpinellx github stats"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=luanarruda&show_icons=true&theme=omni&line_height=27" alt="luanarruda github stats"/>
 </a>  
 
-  <h1 align="center"> <i>Hello World!</i>  </h1>
+  <h1 align="center"> <i></i>  </h1>
 
-  🤔 &nbsp; Me Chamo **Luana Arruda**.
+  🤔 &nbsp; Me chamo **Luana Arruda**.
   
   🎓 &nbsp; Cursando **Análise e Desenvolvimento de Sistemas**.
   
