@@ -14,7 +14,7 @@
 
   <hr>
   
-  <a href="[https://github.com/luanarruda](https://github.com/anuraghazra/github-readme-stats)">
+  <a href="[https://github.com/luanarruda]">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanarruda&hide=html&layout=compact&theme=omni" min-width="468px" max-width="468px" width="468px" />
 
 
