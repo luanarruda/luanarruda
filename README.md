@@ -10,11 +10,11 @@
 
   <div align="center">
 
-  • 🤔 &nbsp;Me chamo **Luana Arruda**.
+  • 😊 &nbsp;Me chamo **Luana Arruda**.
   
   • 🎓 &nbsp;Cursando **Análise e Desenvolvimento de Sistemas**.
   
-  • 🌱 &nbsp;Aprendendo mais sobre TypeScript.
+  • 📚 &nbsp;Aprendendo mais sobre JavaScript.
 
   </div>
 
