@@ -50,6 +50,10 @@
   
   <a href="https://www.instagram.com/l.luanarruda/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+
+  <a href="https://open.spotify.com/user/lua.arruda.2005" alt="Spotify">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Spotify-333333?style=flat-square&logo=spotify">
+    
 </p>
 
 </div>
