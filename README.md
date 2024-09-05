@@ -14,7 +14,7 @@
   
   • 🎓 &nbsp;Cursando **Análise e Desenvolvimento de Sistemas**.
   
-  • 📚 &nbsp;Aprendendo mais sobre JavaScript.
+  
 
   </div>
 
