@@ -14,7 +14,7 @@
   
   🎓 &nbsp;Cursando **Análise e Desenvolvimento de Sistemas**.
 
-  🌱&nbsp;Atualmente aprendendo Dart e Flutter e estudando JavaScript e ReactJs
+  🌱&nbsp;Atualmente aprendendo **Dart** e **Flutter** e estudando **JavaScript** e **React.js**
 
 
   </div>
