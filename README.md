@@ -28,12 +28,12 @@
 
   <div align="center">
     
-  ![Static Badge](https://img.shields.io/badge/HTML-191622?style=flat&logo=html5&logoColor=FF79C6)
-  ![Static Badge](https://img.shields.io/badge/CSS-191622?style=flat&logo=CSS3&logoColor=FF79C6)
-  ![Static Badge](https://img.shields.io/badge/TypeScript-191622?style=flat&logo=typescript&logoColor=FF79C6)
-  ![Static Badge](https://img.shields.io/badge/JavaScript-191622?style=flat&logo=javascript&logoColor=FF79C6)
-  ![Static Badge](https://img.shields.io/badge/Angular-191622?style=flat&logo=angular&logoColor=FF79C6)
-  ![Static Badge](https://img.shields.io/badge/-191622?style=flat&logo=c&logoColor=FF79C6)
+<img width="50px" src="https://skillicons.dev/icons?i=js" />
+<img width="50px" src="https://skillicons.dev/icons?i=react" />
+<img width="50px" src="https://skillicons.dev/icons?i=java" />
+<img width="50px" src="https://skillicons.dev/icons?i=dart" />
+<img width="50px" src="https://skillicons.dev/icons?i=flutter" />
+
 
   </div>
 
