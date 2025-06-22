@@ -10,11 +10,12 @@
 
   <div align="center">
 
-  • 😊 &nbsp;Me chamo **Luana Arruda**.
+   😊 &nbsp;Me chamo **Luana Arruda**.
   
-  • 🎓 &nbsp;Cursando **Análise e Desenvolvimento de Sistemas**.
-  
-  
+  🎓 &nbsp;Cursando **Análise e Desenvolvimento de Sistemas**.
+
+  🌱&nbsp;Atualmente aprendendo Dart e Flutter e estudando JavaScript e ReactJs
+
 
   </div>
 
