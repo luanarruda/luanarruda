@@ -7,6 +7,7 @@
   <h1 align="center"> <i>Hello World</i> </h1>
 
   <div align="center">
+    
    😊 &nbsp;Me chamo Luana Arruda.
   
   🎓 &nbsp;Cursando **Análise e Desenvolvimento de Sistemas**.
