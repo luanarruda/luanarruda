@@ -1,47 +1,24 @@
-<div>
-  
-  <a href="https://github.com/luanarruda">
-    <img width="400px" align="right" src="https://github-readme-stats.vercel.app/api?username=luanarruda&show_icons=true&theme=omni&line_height=27" alt="luanarruda github stats"/>
-  </a>  
+<div align="center">
 
-  <h1 align="center"> <i>Hello World</i> </h1>
+# 👋 Olá, eu sou a Luana Arruda
 
-  <div align="center">
-    
-   😊 &nbsp;Me chamo Luana Arruda.
-  
-  🎓 &nbsp;Cursando **Análise e Desenvolvimento de Sistemas**.
+💻 Estudante de **Análise e Desenvolvimento de Sistemas**  
+🚀 Foco em desenvolvimento **Mobile com Flutter**  
+📚  Aprofundando em Backend com **Node.js e TypeScript**
 
-  🌱&nbsp;Atualmente aprendendo **Dart** e **Flutter** e estudando **JavaScript** e **React.js**
-  </div>
+<br>
 
-  <hr>
+# <img src="https://skillicons.dev/icons?i=dart,flutter,js,ts,react,nodejs,mysql,mongodb,git,github" />
 
-  <a href="[https://github.com/luanarruda]">
-    <img width="400px"  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanarruda&hide=html&layout=compact&theme=omni" min-          width="468px" max-width="468px" width="468px" />
-  
-  <h3 align="center">Minhas Skills</h3>
+<br><br>
 
-  <div align="center">
-    <img width="50px" src="https://skillicons.dev/icons?i=js" />
-    <img width="50px" src="https://skillicons.dev/icons?i=react" />
-    <img width="50px" src="https://skillicons.dev/icons?i=java" />
-    <img width="50px" src="https://skillicons.dev/icons?i=dart" />
-    <img width="50px" src="https://skillicons.dev/icons?i=flutter" />
-  </div>  
+### 📫 Contato
 
-  <hr>
-  <br>
+<a href="mailto:luanamarrudaa@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/luanarruda/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-  <p >
-    <div align="center">
-      <a href="mailto:luanamarrudaa@gmail.com?subject=Questions" alt="Gmail">
-        <img &nbsp; src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
-
-  <a href="https://www.linkedin.com/in/luanarruda/" alt="Linkedin">  
-    <img &nbsp; src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
-  
-  </div>
-    
-  </p>
 </div>
